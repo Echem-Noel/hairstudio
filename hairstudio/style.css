@@ -7,6 +7,7 @@
     background: linear-gradient(rgba(0,0,0,0.5),#009688), url(image/banner.jpg);
     background-size: cover;
     background-position: center;
+    background-attachment: fixed;
     height: 100vh;
 }
 .logo{
